@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import BannerImg1 from "../../assets/bhavya/sd1.png";
 import BannerImg2 from "../../assets/bhavya/Weight Loss Tablets.png";
 import BannerImg3 from "../../assets/bhavya/Alfa Alfa Powder.png";
-import BannerImg4 from "../../assets/bhavya/ALovera gel bhrami big.jpeg";
+import BannerImg4 from "../../assets/bhavya/Alovera gel bhrami big.jpeg";
 import BannerImg5 from "../../assets/bhavya/wheatgrass.png";
 import BannerImg6 from "../../assets/bhavya/aloveragel.jpeg";
 import { Link } from "react-router-dom";
